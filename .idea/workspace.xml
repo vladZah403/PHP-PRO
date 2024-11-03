@@ -5,34 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e27f024-6ebe-486c-a21f-a9c7244a2867" name="Changes" comment="dz_2">
+      <change afterPath="$PROJECT_DIR$/dz_4/Classes/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz_4/Classes/UserException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz_4/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DZ_1" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DZ_1/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DZ_1/.idea/DZ_1.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DZ_1/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DZ_1/.idea/php.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DZ_1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_1/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_1/docker-compose.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_1/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_1/Снимок экрана .png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_2/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_2/BaseEntity.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_2/Car.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_2/CarOwner.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_2/Part.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_2/ServiceOrder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz_3/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/dz_3/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,24 +26,24 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "vladZah403"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vladZah403&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/vladZah403/php-pro.git",
-    "accountId": "422d4bb6-ba1e-4aad-bcce-60201548e99c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vladZah403/php-pro.git&quot;,
+    &quot;accountId&quot;: &quot;422d4bb6-ba1e-4aad-bcce-60201548e99c&quot;
   }
-}]]></component>
+}</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\OSPanel\modules\PHP-8.3\PHP\php.exe" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2lwMyVyDERiMq8xYgdymLkYow03" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -69,7 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Progect/PHP/php-pro",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -96,6 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726086939966</updated>
       <workItem from="1726086942667" duration="2067000" />
+      <workItem from="1730667558464" duration="1193000" />
     </task>
     <task id="LOCAL-00001" summary="dz_2">
       <option name="closed" value="true" />

@@ -25,7 +25,7 @@ class Color {
         return $this->blue;
     }
 
-   
+
     public function setRed($red) {
         if ($red < 0 || $red > 255) {
             throw new Exception("Недопустимое значение для red: $red");
